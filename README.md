@@ -1,9 +1,7 @@
 #  Secure Notes API (FastAPI)
 
-A real-world backend API built with FastAPI that provides secure user authentication using OTP verification, JWT-based login, and user-specific notes management.
-
-This project is designed with production-style architecture, proper security practices, and clean code structure.
-
+A secure backend API built with FastAPI that allows users to register using OTP verification, authenticate using JWT, and manage personal notes securely.
+This project focuses on real-world authentication, security, and clean backend architecture.
 ---
 
 # Features
